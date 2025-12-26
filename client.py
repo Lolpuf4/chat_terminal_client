@@ -117,8 +117,8 @@ def get_DM_user(usernames):
         return usernames[int(result) - 1]
 
 
-#HOST = "62.60.178.229"
-HOST = "127.0.0.1"
+HOST = "62.60.178.229"
+#HOST = "127.0.0.1"
 PORT = 10008
 
 socket_test_client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
