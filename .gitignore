@@ -1,0 +1,4 @@
+protocol
+__pycache__
+.idea
+*.json
